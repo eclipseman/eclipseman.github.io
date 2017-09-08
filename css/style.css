@@ -2762,7 +2762,7 @@ pre .javascript .function {
   font-weight: normal;
   font-size: 0.75rem;
   color: #000;
-  background-color: #6c6b8d;
+  background-color: #ccc;
   height: 1.125rem;
   line-height: 1.125rem;
   float: left;
@@ -2832,6 +2832,7 @@ pre .javascript .function {
   width: 0;
   height: 0;
   position: absolute;
+  background-color: #ccc;
   top: 0;
   left: -1.1rem;
   border: 0.5625rem solid transparent;
