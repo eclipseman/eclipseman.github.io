@@ -2832,10 +2832,10 @@ pre .javascript .function {
   width: 0;
   height: 0;
   position: absolute;
-  border-right-color: #ccc;
   top: 0;
   left: -1.1rem;
   border: 0.5625rem solid transparent;
+  border-right-color: #ccc;
 }
 .tagcloud a:after {
   content: " ";
